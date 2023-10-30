@@ -14,6 +14,6 @@ author = {Russo, Cibele M.},
 doi = {10.5281/zenodo.10002986 },
 month = oct,
 title = {{cibelerusso/IntroducaoaInferenciaEstatistica: Introdução à Inferência Estatística}},
-url = {https://github.com/cibelerusso/IntroducaoaInferenciaEstatistica/ },
+url = {https://github.com/cibelerusso/IntroducaoaInferenciaEstatistica/  },
 year = {2023}
 }
