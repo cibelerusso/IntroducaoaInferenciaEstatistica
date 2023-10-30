@@ -11,9 +11,9 @@ Russo, C. M. (2023). cibelerusso/IntroducaoaInferenciaEstatistica: Introdução 
 
 @misc{Russo_cibelerusso_IntroducaoaInferenciaEstatistica_Introducao_a_2023,
 author = {Russo, Cibele M.},
-doi = {10.5281/zenodo.10002986},
+doi = {10.5281/zenodo.10002986 },
 month = oct,
 title = {{cibelerusso/IntroducaoaInferenciaEstatistica: Introdução à Inferência Estatística}},
-url = {https://github.com/cibelerusso/IntroducaoaInferenciaEstatistica/},
+url = {https://github.com/cibelerusso/IntroducaoaInferenciaEstatistica/ },
 year = {2023}
 }
