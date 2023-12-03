@@ -7,8 +7,6 @@ Materiais da disciplina SME0221 Introdução à Inferência Estatística ofereci
 Se você usar este repositório, por favor cite-o.
 
 
-Russo, C. M. (2023). cibelerusso/IntroducaoaInferenciaEstatistica: Introdução à Inferência Estatística (Version v0.0.0). [https://doi.org/10.5281/zenodo.10252828]( https://doi.org/10.5281/zenodo.10252828)
-
 @misc{Russo_cibelerusso_IntroducaoaInferenciaEstatistica_Introducao_a_2023,
 author = {Russo, Cibele M.},
 doi = {10.5281/zenodo.10252828},
